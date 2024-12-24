@@ -1,0 +1,15 @@
+# Editor directories and files
+.vscode
+!.vscode/extensions.json
+.idea
+coderatic-judge
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.env
+*.sw?
+
+dist
+node_modules

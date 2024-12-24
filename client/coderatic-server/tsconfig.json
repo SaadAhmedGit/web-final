@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "target": "ES2020",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "outDir": "dist"
+  },
+  "ts-node": {
+    "esm": true
+  },
+  "include": ["src/**/*"],
+  "skipLibCheck": true
+}
